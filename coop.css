@@ -1,0 +1,12 @@
+body{
+    background-color: darkgreen;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+h1{
+    color: blanchedalmond;
+}
+a{
+    color: darkcyan;
+    font-weight: bold;
+}
